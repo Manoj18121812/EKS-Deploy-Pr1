@@ -1,0 +1,19 @@
+{
+    "addon": {
+        "addonName": "aws-ebs-csi-driver",
+        "clusterName": "devsecops-cluster",
+        "status": "ACTIVE",
+        "addonVersion": "v1.62.0-eksbuild.1",
+        "health": {
+            "issues": []
+        },
+        "addonArn": "arn:aws:eks:us-east-1:135977248679:addon/devsecops-cluster/aws-ebs-csi-driver/50cf9e07-4fcc-f5c7-79b2-c51a0ced0397",
+        "createdAt": "2026-07-07T10:10:19.305000+00:00",
+        "modifiedAt": "2026-07-07T10:18:05.836000+00:00",
+        "serviceAccountRoleArn": "arn:aws:iam::135977248679:role/AmazonEKS_EBS_CSI_DriverRole",
+        "tags": {},
+        "namespaceConfig": {
+            "namespace": "kube-system"
+        }
+    }
+}
